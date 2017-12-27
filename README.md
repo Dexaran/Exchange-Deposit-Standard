@@ -4,7 +4,7 @@ This standard if widely adopted will simplify the burden on exchanges and other 
 
 ### Components of the standard
 
-A payable function `sendDeposit(string)` with signature `0xd565365b`
+A payable function `sendDeposit(string)` with signature `0xd565365b` (watch on [4byte](https://www.4byte.directory/) )
 
 The exact implementation of all other aspects of the contract, such as the events and token fetching functions are not part of the standard.
 
